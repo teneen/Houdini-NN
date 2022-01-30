@@ -77,7 +77,5 @@ priorite = 64 //32 normal, 64 idle, 128 high, 256 realtime, 16384 below normal, 
 
 - you should put all your PGN files into a subdirectory
 
-ENJOY !
-
 ps : some PGNs files contain scores from "side to move" and others from "white pov".
 At the beginning, this tool will ask you about it.
