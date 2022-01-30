@@ -1,0 +1,14 @@
+[Event "EVENT"]
+[Site "SITE"]
+[Date "2021.01.25"]
+[Round "1"]
+[White "engine1"]
+[Black "engine2"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[Opening "Anderssen's Opening"]
+[PlyCount "51"]
+[TimeControl "30+1"]
+
+1. a2-a3 a7-a5 2. d2-d4 d7-d5 3. c2-c4 d5xc4 4. e2-e3 b7-b5 5. b2-b3 e7-e5 6. Ng1-f3 e5xd4 7. Nf3xd4 Ng8-f6 8. b3xc4 b5-b4 9. Bf1-e2 Bc8-d7 10. Bc1-b2 c7-c5 11. Nd4-b5 Bf8-e7 12. Nb5-d6+ Be7xd6 13. Qd1xd6 Qd8-e7 14. Qd6-g3 0-0 15. Nb1-d2 Bd7-c6 16. Nd2-b3 Nb8-d7 17. a3xb4 a5xb4 18. 0-0 h7-h6 19. Qg3-c7 Qe7-e6 20. h2-h3 Ra8xa1 21. Rf1xa1 Nf6-e8 22. Qc7-g3 Qe6-e4 23. Ra1-c1 Qe4-e6 24. Rc1-a1 Qe6-e4 25. Ra1-c1 Qe4-e6 26. Rc1-a1 1/2-1/2
+
