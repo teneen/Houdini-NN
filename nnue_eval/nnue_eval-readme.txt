@@ -83,8 +83,6 @@ setoption name SkipLoadingEval value true
 
 - you should put all your PGN files into a subdirectory
 
-ENJOY !
-
 ps : if you want to avoid the duplicated EPDs inside the same game or between 2 or more games or even between several PGN files, you have to set detection = True.
 In this case, all the EPDs will be hashed by a MD5 algorithm and the hashes will be stored in four MD5 files at the end.
 Next time you will run this tool, it will reload the hashes from the four MD5 files and they will be updated at the end.
